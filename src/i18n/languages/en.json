@@ -1,0 +1,12 @@
+{
+  "translation": {
+    "account.wallet_address": "Wallet Address",
+    "account.load_balance": "Load Balance",
+    "title.settings": "Settings",
+    "settings.change_language": "Change language",
+    "settings.display_zero_balances": "Display zero balances",
+    "language.change_language": "Change language",
+    "language.english": "English",
+    "language.chinese": "Chinese"
+  }
+}
