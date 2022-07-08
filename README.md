@@ -2,11 +2,20 @@
 
 the app interacts with eth blockchain and display balances of given wallet, here're some screenshots;
 
-![Alt text](screenshots/dashboard-light.png "Optional title")
+<table>
+    <tr>
+        <td>
+         <img src="[/path/to/img.jpg](https://github.com/sbalcin/dappwallet/raw/main/screenshots/dashboard-light.png)">
+       </td>
+     <td>
+         <img src="[/path/to/img.jpg](https://github.com/sbalcin/dappwallet/raw/main/screenshots/dashboard-dark.png)">
+       </td>
+     <td>
+         <img src="[/path/to/img.jpg](https://github.com/sbalcin/dappwallet/raw/main/screenshots/settings-light.png)">
+       </td>
+    </tr>
+</table>
 
-![Alt text](screenshots/dashboard-dark.png "Optional title")
-
-![Alt text](screenshots/settings-light.png "Optional title")
 
  
 # React Native CLI
