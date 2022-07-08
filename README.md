@@ -1,6 +1,6 @@
 # Simple Wallet dapp
 
-the app interacts with eth blockchain and display balances of given wallet, here're some screenshots;
+the app interacts with eth blockchain and displays balances of a given wallet as well as tracking the market, here're some screenshots;
 
 <table>
     <tr>
