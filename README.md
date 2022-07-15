@@ -5,14 +5,17 @@ the app interacts with eth blockchain and displays balances of a given wallet as
 <table>
     <tr>
         <td>
-         <img src="https://github.com/sbalcin/dappwallet/raw/main/screenshots/dashboard-light.png">
+         <img src="https://github.com/sbalcin/dappwallet/raw/main/screenshots/001.png">
        </td>
      <td>
-         <img src="https://github.com/sbalcin/dappwallet/raw/main/screenshots/dashboard-dark.png">
+         <img src="https://github.com/sbalcin/dappwallet/raw/main/screenshots/002.png">
        </td>
      <td>
-         <img src="https://github.com/sbalcin/dappwallet/raw/main/screenshots/settings-light.png">
+         <img src="https://github.com/sbalcin/dappwallet/raw/main/screenshots/003.png">
        </td>
+       <td>
+        <img src="https://github.com/sbalcin/dappwallet/raw/main/screenshots/004.png">
+      </td>
     </tr>
 </table>
 
