@@ -28,3 +28,10 @@ export const formatCoins = (nr, digits = 4) => {
   var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (digits || -1) + '})?');
   return nr.toString().match(re)[0];
 };
+
+export const shortenAddress = (address: string) => {
+  const start = address.slice(0, 20);
+  const end = address.slice(-10);
+
+  return `${start}...${end}`;
+};

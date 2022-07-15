@@ -2,6 +2,8 @@
   "translation": {
     "account.wallet_address": "Wallet Address",
     "account.load_balance": "Load Balance",
+    "account.connect_to_wallet": "Connect",
+    "account.disconnect": "Disconnect",
     "title.settings": "Settings",
     "settings.change_language": "Change language",
     "settings.display_zero_balances": "Display zero balances",

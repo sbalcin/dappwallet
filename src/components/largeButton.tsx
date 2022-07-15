@@ -33,6 +33,7 @@ const styles = StyleSheet.create({
   },
   bigBtnText: {
     fontSize: 20,
+    fontWeight: 'bold',
     fontFamily: 'RobotoSlab-Bold',
     textAlign: 'center',
   },

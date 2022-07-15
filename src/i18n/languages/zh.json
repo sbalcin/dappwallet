@@ -2,6 +2,8 @@
   "translation": {
     "account.wallet_address": "钱包地址",
     "account.load_balance": "负载均衡",
+    "account.connect_to_wallet": "连接到钱包",
+    "account.disconnect": "断开",
     "title.settings": "设置",
     "settings.change_language": "改变语言",
     "settings.display_zero_balances": "显示零余额",
